@@ -53,14 +53,14 @@ R + markdown
 
 
 ```{r echo=FALSE}
-knitr::include_graphics("libs/workflow.png")
+knitr::include_graphics("libs/workflow.PNG")
 ```
 
 ---
 # Markdown syntax
 
 ```{r echo=FALSE}
-knitr::include_graphics("libs/mkexample.png")
+knitr::include_graphics("libs/mkexample.PNG")
 #remotes::install_github("yihui/xaringan")
 ```
 
